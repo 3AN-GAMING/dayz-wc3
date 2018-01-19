@@ -22,7 +22,7 @@
 * Systém humanity převedený na MUI GUI systém , takže je ready pro multiplayer.
 * Dospínačování blood money a lost civil wallet
 
-# Patch Notes 19.1
+# Patch Notes 19.1 (upload at 22 00 cca)
 
 * Převedení systém hladu a žízně do přikazové verze
 * Optimalizace Granátů do itemů (sg01, grenade01)
