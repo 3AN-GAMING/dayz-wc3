@@ -30,6 +30,7 @@
 # Patch notes 19.1 a1 
 
 * Optimalizace radio zóny , dospínačování
+* raw meat , hunger system + další itemy kolem hunger / thurst systemu
 
 
 
