@@ -27,5 +27,10 @@
 * Převedení systém hladu a žízně do přikazové verze
 * Optimalizace Granátů do itemů (sg01, grenade01)
 
+# Patch notes 19.1 a1 
+
+* Optimalizace radio zóny , dospínačování
+
+
 
 
