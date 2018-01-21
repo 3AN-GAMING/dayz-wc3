@@ -2,20 +2,16 @@
 
 ## TO DO LIST
 
-* Humanity system do vJASS
-* Blood system convert to Health system
-* Multibars multiboard hud system
-* Dodělat gun system a přidat modely a zvuky
-* Převést hotwire kit & respawn token
-* Předělat hero select na Gender select
-* Dodělat itemy
-* Přidat druhý granát do hry a optimalizovat patch *20.1*
-
-## DONE
-
-* Spínačové systemy - Humanita , Krev
-* Hlad , Žízeň Proměnné
-
+*  - [x] Humanity system do vJASS
+*  - [] Blood system convert to Health system
+*  - [] Multibars multiboard hud system
+*  - [] Dodělat gun system a přidat modely a zvuky
+*  - [x] Převést hotwire kit & respawn token
+*  - [x] Předělat hero select na Gender select
+*  - [] Dodělat itemy
+*  - [] Přidat druhý granát do hry a optimalizovat patch *20.1*
+*  - [x] Spínačové systemy - Humanita , Krev
+*  - [x] Hlad Proměnné
 
 # Patch Notes 18.1
 
@@ -32,6 +28,22 @@
 * Optimalizace radio zóny , dospínačování
 * raw meat , hunger system + další itemy kolem hunger / thurst systemu
 
+# Patch notes 21.1 a1
 
+* Zrušení tlačítka alt , už nelze vidět HP.
+* statistiky převedeny do multiboardu
+
+| Player Name  |    |
+| ------------- | ------------- |
+| Blood  | Blood_int  |
+| Humanity  | Humanity_int  |
+| Kills  | Kills_int  |
+
+
+![Image of Yaktocat](https://ctrlv.cz/shots/2018/01/21/p35n.png)
+
+### Předměty dotvořené :
+
+* Raw meat
 
 
