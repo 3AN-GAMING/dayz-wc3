@@ -50,6 +50,7 @@
 * blood bag
 * canned fish
 * canned beans
+* life token
 
 # Patch notes 23.1 a1
 
@@ -59,4 +60,5 @@
 
 * Přidány dodatečné itemy k jídlu a pití 
 * Optimalizace proměnných
+* Přidán item - Life token (funkční)
 
