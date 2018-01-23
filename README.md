@@ -62,3 +62,7 @@
 * Optimalizace proměnných
 * Přidán item - Life token (funkční)
 
+# Patch notes 23.1 a2
+
+* Odstraněný leaky z mapy
+
