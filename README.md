@@ -45,5 +45,18 @@
 ### Předměty dotvořené :
 
 * Raw meat
+* apple
+* Chips
+* blood bag
+* canned fish
+* canned beans
 
+# Patch notes 23.1 a1
+
+* Přidány airdropy (jass)
+
+![screenshot](https://ctrlv.cz/shots/2018/01/23/JpS1.png)
+
+* Přidány dodatečné itemy k jídlu a pití 
+* Optimalizace proměnných
 
