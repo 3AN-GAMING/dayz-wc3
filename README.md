@@ -100,7 +100,7 @@
 
 | Name | Typ | Ammo | fireRate | Reload time | Damage human | Damage Zombie | Damage vehicles| Range |
 | --- | --- | --- | --- | ------ | --- | --- | ---| --- |
-| ![screenshot](https://github.com/3AN-GAMING/dayz-wc3/blob/master/yxxx.svg) | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
+| Mauser Red C96 | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
 | Chainsaw | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx  xxx |
 | Baseball with nails | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
 | Vintorez | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
