@@ -66,3 +66,63 @@
 
 * Odstraněný leaky z mapy
 
+
+# Patch notes 25.1 a1
+
+* ## Item list done
+
+| Item name  |   + blood | + hum | + hunger | + add efeect
+| ------------- | ------------- |---|---|---|
+| meat  | 300  | 0| 10|none|
+| chips  | 300  | 0| 10|none|
+| apple  |  300  | 0| 10|none|
+| bloodbag  | 300  | 0| 10|none|
+| canned fish  |  300  | 0| 10|none|
+| beer  |  300  | 0| 10|none|
+| baned beans  |  300  | 0| 10|none|
+| lost civil wallet |0| -100|0|none|
+| blood money | 0| -100|0| none|
+
+* ## Air drop system
+
+* timing : 1 per day at *20:00*
+
+* ## Loots 
+
+| air drop name | obsah | 
+|---|---|
+| military | zbraně , naboje , armory, vybaveni |
+| food | jidlo atd.. |
+| base building | nabytek , crafting potřeby |
+| medic drop | bbčka , atd atd.. |
+
+* ## Gun system 
+
+| Name | Typ | Ammo | fireRate | Reload time | Damage human | Damage Zombie | Damage vehicles| Range |
+| --- | --- | --- | --- | ------ | --- | --- | ---| --- |
+| Mauser Red C96 | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
+| Chainsaw | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx  xxx |
+| Baseball with nails | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
+| Vintorez | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
+| PDW | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
+| Machette | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
+| Hammer | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
+| Baseball | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
+| Sledge hammer | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
+| Revolver | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
+| RPG-7 | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
+| Molotov | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
+| Makarov | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
+| MK48 | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
+| M9 | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
+| M40A3 | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
+| M240 | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
+| Grenade | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
+| Gold plated revolver | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
+| g17 | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
+| bizonSD | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
+| colt 1911 | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
+
+
+&#x1F34E;
+
