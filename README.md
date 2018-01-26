@@ -161,132 +161,132 @@
 # * 1 - Zelená ( The Toys ) 0-1000  40%
 * Brick - Cihla
 * Cement - Cement
-Pepsi Cola
-Wood Logs - dřevo
-Toilet papper  - toaletní papír
-Apple - Jablko
-Jerry Can -  Benzín
-Meat- Maso
-Matchbox - Sirky
-AMMO1- 12Gauge
-AMMO2- 9mm
-AMMO3- 5,56mm
-Chips- Chipsy
-Scrap metals - šrot
-Nails- hřebík
-Canned Fish 
-2 - Tmavě modrá (Better than nothing) 1001-2000 25%
-Wooden Fence - Dřevěný plot
-Toolbox - Nařadí
-Cynder wall
-Colt python
-Lee enfield
-Mauser Red C96- zbraň
-338 lapua magnum ammo
-Haloogen - halogen
-Remington
-Baseball- Basebolka
-Bandage - Bandáž
-Rope- Lano
-Double barell shotgun
-Bulp - žárovka
-Machete
-Eletric Cabels
-3 - žlutá  (Pay to Survive) 2000-2500 15%
-Brick Wall - Cihlová zeď
-AUG
-M4A1 MOD
-Wheel - kolo
-Spray "Red"
-Spray "Green"
-Spray " Blue"
-Mountain dew
-Pump shotgun
-Civil Wallet- Civilní peněženka
-Mountain dew
-Polyester- Plast PVC
-Transformator - Transformator
-Car Battery- Akumulator
-Smoke
-Briefcase
-4- hnědá (STALKER) 3000-4000 10%
-Bronze - Bronz
-Deser Eagle
-Compost- Kompost
-Box- krabice
-Lamp-Lampa
-Speedometer
-Bush- Keř
-Gold bar
-P90
-HEGrenades ammo
-M14
-Silver bar
-Bumper - narazník
-Land mine - Mina
-Bear trap
-Fish net trap - Past na ryby
-Citrine
-Car radiator - Radiator pro auta
-Sapphire
-5 - Růžová (Psychopath tools) 4001-8000 4%
-NV Googles - Noktovizor
-Teddybear - Medvídek
-MP-40
-Transmitter- Vysílačka
-FN FAL
-Kevlar- Vesta
-M4A1 SOPSD 
-Obsidian - Obsidian
-Amethyst
-Military radio - Radio
-Peridot
-Diamond
-Silver Bullet - Stříbrné kulky
-Specimen 13 - Exermplář 13
-REBEL CLOTHES
-AK47-Goldplated
-AK47-Silver Plated
-AK47-Nightmare
-6 - Světle modrá (Insane Survival)  9000-12000 3%
-Megaphone - Megaphone
-Parkour Book- parkourova kniha
-Canadian Boots - Kanady
-Krasnodar's Biomask
-Amethyst
-Sentry Gun
-L115A3 SD
-Emerald
-Ruby
-KSVK
-AK47- Husky
-AK47SD- Luccawear
-AK47SD - Collosus
-AK47- Jasmine
-AK47- Brasilia
-7 - Červená (Ancient Predator's ) 12001-18000 2%
-NATO Medkits
-Minigun for car - minigun do auta
-Uranium - Uran
-Ghillie Suit - heykal
-Kransodar sniper Clothes
-Bandit Clothes
-Garnet
-AS50
-Zirkon
-Ak47 - Bomberman
-AK47 - D00M
-AK47- Madness
-BloodBag
-8 - Bílá (The Silence of the Lambs) 18001-? 1%
-Palladium Ore - Palladium
-Hotwirekit- hotwirekit
-Lock - zámek
-Blackmarket Hummer
-Life Tokken 
-Opal
-AK47-Rainbow
-Radar
-DMR SD
-M32
+* Pepsi Cola
+* Wood Logs - dřevo
+* Toilet papper  - toaletní papír
+* Apple - Jablko
+* Jerry Can -  Benzín
+* Meat- Maso
+* Matchbox - Sirky
+* AMMO1- 12Gauge
+* AMMO2- 9mm
+* AMMO3- 5,56mm
+* Chips- Chipsy
+* Scrap metals - šrot
+* Nails- hřebík
+* Canned Fish 
+# * 2 Tmavě modrá (Better than nothing) 1001-2000 25%
+* Wooden Fence - Dřevěný plot
+* Toolbox - Nařadí
+* Cynder wall
+* Colt python
+* Lee enfield
+* Mauser Red C96- zbraň
+* 338 lapua magnum ammo
+* Haloogen - halogen
+* Remington
+* Baseball- Basebolka
+* Bandage - Bandáž
+* Rope- Lano
+* Double barell shotgun
+* Bulp - žárovka
+* Machete
+* Eletric Cabels
+* # 3 # žlutá  (Pay to Survive) 2000-2500 15%
+* Brick Wall - Cihlová zeď
+* AUG
+* M4A1 MOD
+* Wheel - kolo
+* Spray "Red"
+* Spray "Green"
+* Spray " Blue"
+* Mountain dew
+* Pump shotgun
+* Civil Wallet- Civilní peněženka
+* Mountain dew
+* Polyester- Plast PVC
+* Transformator - Transformator
+* Car Battery- Akumulator
+* Smoke
+* Briefcase
+# * 4- hnědá (STALKER) 3000-4000 10%
+* Bronze - Bronz
+* Deser Eagle
+* Compost- Kompost
+* Box- krabice
+* Lamp-Lampa
+* Speedometer
+* Bush- Keř
+* Gold bar
+* P90
+* HEGrenades ammo
+* M14
+* Silver bar
+* Bumper - narazník
+* Land mine - Mina
+* Bear trap
+* Fish net trap - Past na ryby
+* Citrine
+* Car radiator - Radiator pro auta
+* Sapphire
+# * 5 - Růžová (Psychopath tools) 4001-8000 4%
+* NV Googles - Noktovizor
+* Teddybear - Medvídek
+* MP-40
+* Transmitter- Vysílačka
+* FN FAL
+* Kevlar- Vesta
+* M4A1 SOPSD 
+* Obsidian - Obsidian
+* Amethyst
+* Military radio - Radio
+* Peridot
+* Diamond
+* Silver Bullet - Stříbrné kulky
+* Specimen 13 - Exermplář 13
+* REBEL CLOTHES
+* AK47-Goldplated
+* AK47-Silver Plated
+* AK47-Nightmare
+# * 6 - Světle modrá (Insane Survival)  9000-12000 3%
+* Megaphone - Megaphone
+* Parkour Book- parkourova kniha
+* Canadian Boots - Kanady
+* Krasnodar's Biomask
+* Amethyst
+* Sentry Gun
+* L115A3 SD
+* Emerald
+* Ruby
+* KSVK
+* AK47- Husky
+* AK47SD- Luccawear
+* AK47SD - Collosus
+* AK47- Jasmine
+* AK47- Brasilia
+# * 7 - Červená (Ancient Predator's ) 12001-18000 2%
+* NATO Medkits
+* Minigun for car - minigun do auta
+* Uranium - Uran
+* Ghillie Suit - heykal
+* Kransodar sniper Clothes
+* Bandit Clothes
+* Garnet
+* AS50
+* Zirkon
+* Ak47 - Bomberman
+* AK47 - D00M
+* AK47- Madness
+* BloodBag
+# * 8 - Bílá (The Silence of the Lambs) 18001-? 1%
+* Palladium Ore - Palladium
+* Hotwirekit- hotwirekit
+* Lock - zámek
+* Blackmarket Hummer
+* Life Token 
+* Opal
+* AK47-Rainbow
+* Radar
+* DMR SD
+* M32
 
