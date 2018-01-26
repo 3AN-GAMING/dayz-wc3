@@ -149,4 +149,7 @@
 | 17 | xxx |
 | 18 | xxx |
 
+# Patch notes 25.1 a2
 
+* *added items*
+* *teren*
