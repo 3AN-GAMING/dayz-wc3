@@ -40,7 +40,7 @@
 | Kills  | Kills_int  |
 
 
-![Image of Yaktocat](https://ctrlv.cz/shots/2018/01/21/p35n.png)
+![Image of Yaktocat](https://ctrlv.cz/shots/2018/01/27/Ob3I.png)
 
 ### Předměty dotvořené :
 
