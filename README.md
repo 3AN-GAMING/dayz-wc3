@@ -101,13 +101,21 @@
 | Name | Typ | Ammo | fireRate | Reload time | Damage human | Damage Zombie | Damage vehicles| Range |
 | --- | --- | --- | --- | ------ | --- | --- | ---| --- |
 | Mauser Red C96 | 9mm |  9mm |  0.9s |  1s |  2000 |  2000 |  2000 | 30m |
-| Chainsaw | Melee |  none |  none |  1000 |  1000 |  1000 |  15m |
+| Chainsaw | Melee |  none |  none |  none | 1000|  1000 |  1000 |  15m |
 | Baseball with nails | Melee |  none |  none |  1000 |  1000 |  1000 |  15m |
 | RPG-7 | RL |  Rockets |  4s |  4s |  5000 |  5000 |  5000 | 1500m |
 | AS50| sniper| lapua .338 | 2s | 1.5s | 17000 | 17000 | 17000 | 2000m |
 | AK47 Madness | automatic rifle |  5.56 |  0.3s |  3s |  5900 |  5900 |  5900 | 300m |
 | AK47 D00M | automatic rifle |  5.56 |  0.4s |  3s |  5300 |  5300 |  5300 | 300m |
 | AK47 bomberman | automatic rifle |  5.56 |  0.3s |  3s |  6000 |  6000 |  6000 | 300m |
+| XM1014 | shotgun |  12gauge |  .5s |  3s |  3500 |  3500 |  3500 | 140m |
+| USP SD | 9mm |  9mm |  .55s |  1.35s |  2155 |  2155 |  2155 | 155m |
+| Pump shotgun | shotgun |  12gauge |  .85s |  3s |  5000 |  5000 |  5000 | 130m |
+| M4A1 MOD | automatic rifle |  5.56 |  .4s |  1.35s |  2450 |  2450 |  2450 | 345m |
+| AUG | automatic rifle |  5.56 |  .8s |  2s |  2000 |  2000 |  2000 | 250m |
+| Vintorez | sniper / rifle |  5.56 |  1s |  2s |  5000 |  5000 |  5000 | 400m |
+| SCAR | rifle/sniper |  5.56 |  .3s |  1.95s |  2450 |  2450 |  2450 | 255m |
+
 
 * ## Recipes
 
