@@ -100,29 +100,14 @@
 
 | Name | Typ | Ammo | fireRate | Reload time | Damage human | Damage Zombie | Damage vehicles| Range |
 | --- | --- | --- | --- | ------ | --- | --- | ---| --- |
-| Mauser Red C96 | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
-| Chainsaw | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx  xxx |
-| Baseball with nails | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
-| Vintorez | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
-| PDW | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
-| Machette | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
-| Hammer | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
-| Baseball | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
-| Sledge hammer | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
-| Revolver | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
-| RPG-7 | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
-| Molotov | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
-| Makarov | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
-| MK48 | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
-| M9 | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
-| M40A3 | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
-| M240 | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
-| Grenade | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
-| Gold plated revolver | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
-| g17 | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
-| bizonSD | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
-| colt 1911 | xxx |  xxx |  xxx |  xxx |  xxx |  xxx |  xxx | xxx |
-
+| Mauser Red C96 | 9mm |  9mm |  0.9s |  1s |  2000 |  2000 |  2000 | 30m |
+| Chainsaw | Melee |  none |  none |  1000 |  1000 |  1000 |  15m |
+| Baseball with nails | Melee |  none |  none |  1000 |  1000 |  1000 |  15m |
+| RPG-7 | RL |  Rockets |  4s |  4s |  5000 |  5000 |  5000 | 1500m |
+| AS50| sniper| lapua .338 | 2s | 1.5s | 17000 | 17000 | 17000 | 2000m |
+| AK47 Madness | automatic rifle |  5.56 |  0.3s |  3s |  5900 |  5900 |  5900 | 300m |
+| AK47 D00M | automatic rifle |  5.56 |  0.4s |  3s |  5300 |  5300 |  5300 | 300m |
+| AK47 bomberman | automatic rifle |  5.56 |  0.3s |  3s |  6000 |  6000 |  6000 | 300m |
 
 * ## Recipes
 
