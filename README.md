@@ -102,9 +102,9 @@
 | --- | --- | --- | --- | ------ | --- | --- | ---| --- |
 | Mauser Red C96 | 9mm |  9mm |  0.9s |  1s |  2000 |  2000 |  2000 | 30m |
 | Chainsaw | Melee |  none |  none |  none | 1000|  1000 |  1000 |  15m |
-| Baseball with nails | Melee |  none |  none |  1000 |  1000 |  1000 |  15m |
+| Baseball with nails | Melee |  none |  none | none |  1000 |  1000 |  1000 |  15m |
 | RPG-7 | RL |  Rockets |  4s |  4s |  5000 |  5000 |  5000 | 1500m |
-| AS50| sniper| lapua .338 | 2s | 1.5s | 17000 | 17000 | 17000 | 2000m |
+| AS50| sniper| lapua .338 | 2s | 1.5s | 17000 | 17000 | 17000 | 2000m | 
 | AK47 Madness | automatic rifle |  5.56 |  0.3s |  3s |  5900 |  5900 |  5900 | 300m |
 | AK47 D00M | automatic rifle |  5.56 |  0.4s |  3s |  5300 |  5300 |  5300 | 300m |
 | AK47 bomberman | automatic rifle |  5.56 |  0.3s |  3s |  6000 |  6000 |  6000 | 300m |
@@ -135,10 +135,16 @@
 | AK47 Nightmare | Rifle |  5.56 |  .25s |  2.5s |  3500 |  3500 |  3500 | 300m |
 | AK47 Gold Plated | Rifle |  5.56 |  .3s |  2s |  4100 |  4100 |  4100 | 300m |
 | Tihar Chernobyl | Sniper |  358 lapua |  .95s |  5s |  19800 |  19800 |  19800 | 1750m |
-| M32 | GL |  5.56 |  .5s |  4s |  25000 |  2500 |  25000 | 250m |
+| M32 | GL |  5.56 |  .5s |  4s |  25000 |  25000 |  25000 | 250m |
 | DMR SD | Sniper |  338 lapua magnum |  .4s |  1.5s |  7300 |  7300 |  7300 | 900m |
 | AK47 Rainbow | Rifle |  5.56 |  .1s |  1s |  6500 |  6500 |  6500 | 300m |
 | L115A3 SD | Sniper |  338 |  .85s |  1.45s |  8700 |  8700 |  8700 | 750m |
+| KSVK | Sniper |  338 |  1.45s |  1.75s |  10200 |  10200 |  10200 | 250m |
+| AK47SD Luccawear | rifle |  5.56 |  .14s |  2s |  5000 |  5000 |  5000 | 300m |
+| AK47SD Collosus | Rifle |  5.56 |  .1s |  4s |  4500 |  4500 |  4500 | 300m |
+| AK47 Jasmine | Rifle |  5.56 |  .2s |  4s |  4000 |  4000 |  4000 | 300m |
+| AK47 Husky | Rifle |  5.56 |  .3s |  2.5s |  5100 |  5100 |  5100 | 300m |
+| AK47 Brasillia | Rifle |  338 |  .24s |  2s |  4900 |  4900 |  4900 | 300m |
 
 
 * ## Recipes
