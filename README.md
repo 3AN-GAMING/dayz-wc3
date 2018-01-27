@@ -115,6 +115,30 @@
 | AUG | automatic rifle |  5.56 |  .8s |  2s |  2000 |  2000 |  2000 | 250m |
 | Vintorez | sniper / rifle |  5.56 |  1s |  2s |  5000 |  5000 |  5000 | 400m |
 | SCAR | rifle/sniper |  5.56 |  .3s |  1.95s |  2450 |  2450 |  2450 | 255m |
+| P90 | SMG |  9mm |  .18s |  2.25s |  1800 |  1800 |  1800 | 200m |
+| M14 | rifle/sniper |  5.56 |  1.15s |  1.80s |  4150 |  4150 |  4150 | 550m |
+| L85A23 | rifle |  5.56 |  .4s |  .95s |  2950 |  2950 |  2950 | 450m |
+| desert eagle | 9mm |  9mm |  .7s |  1s |  3000 |  3000 |  3000 | 230m |
+| Remington | shotgun |  12 gauge |  .9s |  3s |  2350 |  2350 |  2350 | 175m |
+| SCAR | rifle/sniper |  5.56 |  .3s |  1.95s |  2450 |  2450 |  2450 | 255m |
+| PDW | SMG |  9mm |  .4s |  1.2s |  400 |  400 |  400 | 40m |
+| Machete | melee |  none | none |  none |  1250 |  1250 |  1250 | 1,5m |
+| Lee Enfield | rifle |  5.56 |  1.55s |  1.85s |  2050 |  2050 |  2050 | 325m |
+| Double Barrel Shotgun | shotgun |  12 gauge |  .9s |  3s |  5000 |  5000 |  5000 | 120m |
+| Colt Python | 9mm |  9mm |  .55s |  1.85s |  1100 |  1100 |  1100 | 145m |
+| Baseball | melee |  .5s |  none |  none |  300 |  300 |  300 | m2 |
+| UMP MOD | SMG |  5.56 |  .13s |  1.2s |  2850 |  2850 |  2850 | 295m |
+| MP40 | SMG |  5.56 |  .4s |  1.7s |  3340 |  3340 |  3340 | 285m |
+| M4A1 SOPSD | Rifle |  5.56 |  .3s |  1.3s |  3650 |  3650 |  3650 | 410m |
+| FN FAL | Shotgun |  5.56 |  .45s |  1.25s |  4400 |  4400 |  4400 | 450m |
+| AK47 Silver Plated | Rifle |  5.56 |  .3s |  2.5s |  4500 |  4500 |  4500 | 300m |
+| AK47 Nightmare | Rifle |  5.56 |  .25s |  2.5s |  3500 |  3500 |  3500 | 300m |
+| AK47 Gold Plated | Rifle |  5.56 |  .3s |  2s |  4100 |  4100 |  4100 | 300m |
+| Tihar Chernobyl | Sniper |  358 lapua |  .95s |  5s |  19800 |  19800 |  19800 | 1750m |
+| M32 | GL |  5.56 |  .5s |  4s |  25000 |  2500 |  25000 | 250m |
+| DMR SD | Sniper |  338 lapua magnum |  .4s |  1.5s |  7300 |  7300 |  7300 | 900m |
+| AK47 Rainbow | Rifle |  5.56 |  .1s |  1s |  6500 |  6500 |  6500 | 300m |
+| L115A3 SD | Sniper |  338 |  .85s |  1.45s |  8700 |  8700 |  8700 | 750m |
 
 
 * ## Recipes
