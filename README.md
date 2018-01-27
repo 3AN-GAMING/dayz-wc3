@@ -3,13 +3,13 @@
 ## TO DO LIST
 
 *  - [x] Humanity system do vJASS
-*  - [] Blood system convert to Health system
-*  - [] Multibars multiboard hud system
-*  - [] Dodělat gun system a přidat modely a zvuky
+*  - [x] Blood system convert to Health system
+*  - [x] Multibars multiboard hud system
+*  - [x] Dodělat gun system a přidat modely a zvuky
 *  - [x] Převést hotwire kit & respawn token
 *  - [x] Předělat hero select na Gender select
-*  - [] Dodělat itemy
-*  - [] Přidat druhý granát do hry a optimalizovat patch *20.1*
+*  - [x] Dodělat itemy
+*  - [x] Přidat druhý granát do hry a optimalizovat patch *20.1*
 *  - [x] Spínačové systemy - Humanita , Krev
 *  - [x] Hlad Proměnné
 
